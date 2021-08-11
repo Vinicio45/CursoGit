@@ -3,3 +3,6 @@ son una mierda
 
 
 aca irian los estilos de css
+
+
+iria un nuevo commit
